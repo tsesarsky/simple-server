@@ -1,1 +1,3 @@
-# simple-server (learning project)
+# Simple-server (learning project)
+<hr>
+Server for testing web applications.
