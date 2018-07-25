@@ -1,1 +1,1 @@
-# simple-server
+# simple-server (learning project)
