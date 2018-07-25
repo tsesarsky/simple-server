@@ -11,6 +11,7 @@ const server = http.createServer(function (request, response){
     response.end(html);
   }
 });
+console.log('port = ', process.env.PORT);
 
-server.listen(3000);
+server.listen(process.env.PORT || 3000); // add port (access to environment variable)
 console.log('Server started!');
